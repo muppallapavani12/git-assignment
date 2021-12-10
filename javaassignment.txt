@@ -1,0 +1,2 @@
+// creates an object of File using the path 
+File file = new File(String pathName)
